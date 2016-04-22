@@ -17,7 +17,7 @@ public class TheHTTPClient {
 			byte[] bites = Files.readAllBytes(Paths.get("d:\\wur.jpg"));
 	
 			HttpURLConnection httpUrlConnection = null;
-			URL url = new URL("http://localhost:8000/bla");
+			URL url = new URL("http://localhost:8000/get/");
 			httpUrlConnection = (HttpURLConnection) url.openConnection();
 			httpUrlConnection.setUseCaches(false);
 			httpUrlConnection.setDoOutput(true);
