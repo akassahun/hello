@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="com/sun/net/httpserver/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/arq-extra.jar"/>
+	<classpathentry kind="lib" path="lib/arq.jar"/>
+	<classpathentry kind="lib" path="lib/axis.jar"/>
+	<classpathentry kind="lib" path="lib/commons-discovery-0.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="lib/edtftpj-1.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/ekitspell.jar"/>
+	<classpathentry kind="lib" path="lib/icu4j_3.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/iri.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar.jar"/>
+	<classpathentry kind="lib" path="lib/jdom.jar"/>
+	<classpathentry kind="lib" path="lib/jena-dig.jar"/>
+	<classpathentry kind="lib" path="lib/jena.jar"/>
+	<classpathentry kind="lib" path="lib/jep-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-common-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-looks-2.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/kazuki.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="lib/orphanNodesAlg.jar"/>
+	<classpathentry kind="lib" path="lib/owlsyntax.jar"/>
+	<classpathentry kind="lib" path="lib/protege-owl.jar"/>
+	<classpathentry kind="lib" path="lib/protege.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/swrl-drools-bridge.jar"/>
+	<classpathentry kind="lib" path="lib/swrl-jess-bridge.jar"/>
+	<classpathentry kind="lib" path="lib/wstx-asl-3.2.9.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jgit-4.3.0.201604071810-r.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
